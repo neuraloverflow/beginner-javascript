@@ -8,7 +8,7 @@ people.forEach((person, index) => {
   console.log(person.name);
 });
 
-// Console Methods
+// Console Methods yeah
 
 // Callstack
 
